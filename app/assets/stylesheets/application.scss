@@ -1,6 +1,14 @@
+// gem's //
 @import '../../../node_modules/bootstrap/scss/bootstrap';
 @import "font-awesome";
 
-@import "range-slide";
+// component //
+@import "component/container";
+@import "component/row";
+@import "component/colours";
+@import "component/background";
 
+// range slide //
+@import "range-slide";
 @import "range-slide2";
+@import "my-own-range-slide"

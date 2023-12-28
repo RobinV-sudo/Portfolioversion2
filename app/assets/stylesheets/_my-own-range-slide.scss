@@ -1,0 +1,18 @@
+._my-own-range-slide {
+  accent-color: gray;
+  height: 3rem;
+  width: 30rem;
+  cursor: pointer;
+//  -webkit-appearance: none; /* Override default look */
+// appearance: none;
+}
+
+._my-own-range-slide::-webkit-slider-thumb {
+  //background-color: gray;
+  color: gray;
+}
+
+._my-own-range-slide::-moz-range-thumb {
+  // background-color: gray;
+  color: gray;
+}

@@ -3,12 +3,9 @@
 @import "font-awesome";
 
 // component //
-@import "component/_colors";
+@import "component/_background";
 @import "component/_container";
 @import "component/_row";
-@import "component/_background";
 
-// range slide //
-@import "range-slide";
-@import "range-slide2";
-@import "_my-own-range-slide"
+// _navi_bar //
+@import "component/_navi-bar";
